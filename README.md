@@ -1,5 +1,27 @@
-# logistic_regression_classifier_training.py
+# logistic_regression_classifier_training
 
-Logistic Regression Classifier Training on the "wine" dataset from sklearn.
-Here, I am exploring the "wine" dataset, splitting the data into "Training" and "Testing" sets.
-Then, I am training a Logistic Regression Classifier, making predictions, and evaluating the accuracy of the "Testing" set.
+Machine learning project demonstrating logistic regression classification using the Wine dataset from scikit-learn.
+
+## Overview
+
+Developed a Python-based machine learning workflow that loads and explores the Wine dataset, performs data preprocessing and exploratory data analysis, splits the data into training and testing sets, and trains a Logistic Regression classification model.
+
+The project generates predictions on unseen test data and evaluates model performance using classification accuracy.
+
+## Key Impact
+
+- Performed exploratory data analysis using pandas
+- Validated data quality through descriptive statistics and missing-value checks
+- Split data into stratified training and testing sets for balanced model evaluation
+- Trained a Logistic Regression classifier for multi-class prediction
+- Evaluated model performance using accuracy metrics
+
+## Technologies Used
+
+- Python
+- pandas
+- scikit-learn
+- Logistic Regression
+- train_test_split
+- accuracy_score
+- Jupyter Notebook / Python Scripts
