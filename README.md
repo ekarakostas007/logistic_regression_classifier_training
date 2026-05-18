@@ -25,3 +25,10 @@ The project generates predictions on unseen test data and evaluates model perfor
 - train_test_split
 - accuracy_score
 - Jupyter Notebook / Python Scripts
+
+---
+
+## Author  
+
+Developed by Eva Karakostas  
+M.S. Data Science | Operations Supervisor | Machine Learning Workflow
